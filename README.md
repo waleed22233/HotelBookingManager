@@ -24,3 +24,5 @@ python hotelbookingmanager.py
   •	Room Availability Check: View all rooms.
   •	Search by Type: Search for rooms by their type.
   •	Edit Room Details: Modify room information.
+
+# Libraries Used
