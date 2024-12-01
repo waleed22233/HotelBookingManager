@@ -15,3 +15,4 @@ To run the application, ensure you have Python installed on your system.
   •	Check Room Availability: Outputs all available rooms.
   •	Search by Room Type: Enables users to search available rooms by type.
   •	Edit Room Details: Allow editing room detail, such as type.
+# Running the Application
