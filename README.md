@@ -26,3 +26,6 @@ python hotelbookingmanager.py
   •	Edit Room Details: Modify room information.
 
 # Libraries Used
+This project uses the following libraries:
+
+  •	csv - For reading and writing room data stored in CSV file.
