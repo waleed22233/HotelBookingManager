@@ -19,3 +19,4 @@ To run the application, ensure you have Python installed on your system.
 Run the main script to start the Room Management System:
 
 python hotelbookingmanager.py
+# Features
