@@ -20,3 +20,7 @@ Run the main script to start the Room Management System:
 
 python hotelbookingmanager.py
 # Features
+  •	Room Booking Management: Book and cancel room bookings.
+  •	Room Availability Check: View all rooms.
+  •	Search by Type: Search for rooms by their type.
+  •	Edit Room Details: Modify room information.
