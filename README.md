@@ -10,3 +10,4 @@ Users can perform actions like viewing available rooms, editing room details, an
 
 # Installation
 To run the application, ensure you have Python installed on your system. 
+# How to Use
