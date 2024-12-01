@@ -31,4 +31,10 @@ This project uses the following libraries:
   •	csv - For reading and writing room data stored in CSV file.
 
 # Project Structure
+The project contains following main files and directories:
+
+  •	hotelbookingmanager.py: Main script to run application.
+
+  •	ROOMS.csv: Stores room data.
+
 
