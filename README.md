@@ -9,4 +9,4 @@ The system contains functions to manage room bookings, cancellations, and room d
 Users can perform actions like viewing available rooms, editing room details, and searching by room type.
 
 # Installation
-
+To run the application, ensure you have Python installed on your system. 
